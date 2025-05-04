@@ -38,7 +38,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" height="30px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" height="30px" style="padding-right: 10px"/>
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" height="30px" style="padding-right: 10px"/>
+<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis1.png" height="30px" style="padding-right: 10px"/>
 
 </details>
 
