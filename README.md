@@ -15,27 +15,27 @@
 
 <details>
 <summary><b>프로그래밍 언어 및 도구 툴 🔍</b></summary><br>
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" width="26px" style="padding-right: 10px"/>]
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" width="26px" style="padding-right: 10px"/>
 
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" width="26px" style="padding-right: 10px"/>]
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" width="26px" style="padding-right: 10px"/>
 
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain.png" width="26px" style="padding-right: 10px"/>]
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain.png" width="26px" style="padding-right: 10px"/>
 
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" width="26px" style="padding-right: 10px"/>]
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" width="26px" style="padding-right: 10px"/>
 
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" width="26px" style="padding-right: 10px"/>]
-[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" width="26px" style="padding-right: 10px"/>]
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" width="26px" style="padding-right: 10px"/>
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" width="26px" style="padding-right: 10px"/>
 </details>
