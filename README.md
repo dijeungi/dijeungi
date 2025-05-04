@@ -16,7 +16,7 @@
 <details>
 <summary><b>프로그래밍 언어 및 도구 툴 🔍</b></summary><br>
 
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" height="30px" style="margin: 10px"/>
+<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" height="30px" margin="50px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" height="30px" style="padding: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" height="30px" style="padding: 10px"/>
