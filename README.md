@@ -33,7 +33,7 @@
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" width="40px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" width="26px" style="padding-right: 10px"/>
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" width="26px" style="padding-right: 10px"/>
+<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" width="40px" style="padding-right: 10px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" width="26px" style="padding-right: 10px"/>
