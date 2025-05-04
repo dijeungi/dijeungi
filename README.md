@@ -26,7 +26,7 @@
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" width="26px" style="padding-right: 10px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" width="35px" style="padding-right: 10px"/>
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" width="26px" style="padding-right: 10px"/>
+<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" width="20px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain2.png" width="26px" style="padding-right: 10px"/>
 
