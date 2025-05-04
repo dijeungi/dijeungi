@@ -3,7 +3,7 @@
 ## 기술스택
 
 ### Frontend
-<div style="display: flex; gap: 3rem; flex-wrap: wrap;">
+<div style="display: flex; gap: 10rem; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" alt="React" height="50px"/>
   <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" alt="Next.js" height="50px"/>
   <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" alt="JavaScript" height="50px"/>
