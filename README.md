@@ -30,7 +30,7 @@
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain2.png" width="30px" style="padding-right: 10px"/>
 
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" width="35px" style="padding-right: 10px"/>
+<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" width="40px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" width="26px" style="padding-right: 10px"/>
