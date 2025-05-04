@@ -2,41 +2,31 @@
 
 ## 기술스택
 
-### Frontend
-<div>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" alt="React" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" alt="Next.js" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" alt="JavaScript" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" alt="Redux" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" alt="Zustand" height="50px" style="margin-right: 30px;"/>
-</div>
+### Frontend  
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" height="50px"/>
 
-### Backend
-<div>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" alt="Java" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" alt="Spring Boot" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" alt="Python" height="50px" style="margin-right: 30px;"/>
-</div>
+### Backend  
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" height="50px"/>
 
-### AI
-<div>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" alt="CUDA" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" alt="PyTorch" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" alt="WebSocket" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain.png" alt="LangChain" height="50px" style="margin-right: 30px;"/>
-</div>
+### AI  
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain.png" height="50px"/>
 
-### DevOps
-<div>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" alt="AWS" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" alt="Docker" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" alt="GitHub Actions" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" alt="Cloudflare" height="50px" style="margin-right: 30px;"/>
-</div>
+### DevOps  
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" height="50px"/>
 
-### Database
-<div>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" alt="MySQL" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" alt="PostgreSQL" height="50px" style="margin-right: 30px;"/>
-  <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" alt="Redis" height="50px" style="margin-right: 30px;"/>
-</div>
+### Database  
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" height="50px"/> &emsp;
+<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" height="50px"/>
