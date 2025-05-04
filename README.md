@@ -14,7 +14,7 @@
 </p>
 
 <details>
-<summary><b>💻 Click to view my Tech Stack</b></summary><br>
+<summary><b>기술스택 🔍</b></summary><br>
 
 ### Frontend  
 <img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" height="50px"/> &emsp;
