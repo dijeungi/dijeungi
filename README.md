@@ -16,39 +16,42 @@
 <details>
 <summary><b>프로그래밍 언어 및 도구 툴 🔍</b></summary><br>
 
-<details>
-<summary><b>프로그래밍 언어 및 도구 툴 🔍</b></summary><br>
-
-### Frontend
+### Frontend  
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand1.png" height="30px" style="margin: 10px"/>
+<br style="clear: both"/>
 
-### Backend
+### Backend  
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" height="30px" style="margin: 10px"/>
+<br style="clear: both"/>
 
-### AI
+### AI  
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain2.png" height="30px" style="margin: 10px"/>
+<br style="clear: both"/>
 
-### DevOps
+### DevOps  
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" height="30px" style="margin: 10px"/>
+<br style="clear: both"/>
 
-### Database
+### Database  
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" height="30px" style="margin: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis1.png" height="30px" style="margin: 10px"/>
+<br style="clear: both"/>
 
 </details>
+
 
 
 </details>
