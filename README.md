@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👀 Im Junho Choi - a FullStack Developer with a passion for AI</h1>
+<h1 align="left">Hi 👀 I'm Junho Choi - a FullStack Developer with a passion for AI</h1>
 <h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
 
 - 👩‍💻 From building rich frontend experiences with React and Next.js  
