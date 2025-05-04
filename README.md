@@ -14,35 +14,28 @@
 </p>
 
 <details>
-<summary><b>기술스택 🔍</b></summary><br>
+<summary><b>프로그래밍 언어 및 도구 툴 🔍</b></summary><br>
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" width="26px" style="padding-right: 10px"/>]
 
-### Frontend  
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" height="50px"/>
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" width="26px" style="padding-right: 10px"/>]
 
-### Backend  
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Python.png" height="50px"/>
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain.png" width="26px" style="padding-right: 10px"/>]
 
-### AI  
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Cuda.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PyTorch.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/WebSocket.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/LangChain.png" height="50px"/>
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" width="26px" style="padding-right: 10px"/>]
 
-### DevOps  
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/AWS.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Docker.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/GithubActions.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/CloudFlare.png" height="50px"/>
-
-### Database  
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" height="50px"/> &emsp;
-<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" height="50px"/>
-
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/MySQL.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/PostgreSQL.png" width="26px" style="padding-right: 10px"/>]
+[<img src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redis.png" width="26px" style="padding-right: 10px"/>]
 </details>
