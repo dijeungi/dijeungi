@@ -1,5 +1,5 @@
-<h1 align="left">안녕하세요 👋 저는 AI를 좋아하는 풀스택 개발자 최준호입니다</h1>
-<h3 align="left">어제를 넘는 오늘을 만들기 위해 개발합니다.</h3>
+<h1 align="left">안녕하세요 👀 저는 AI를 좋아하는 풀스택 개발자 최준호입니다</h1>
+<h3 align="left">- 엔지니어로서 제일 중요한 것은 "무엇이 원인이었는지 명확하게 짚고 넘어가는 과정"을 하는 것 -</h3>
 
 - 👨‍💻 React 기반 프론트엔드부터, Next.js · Spring Boot · Python을 활용한 백엔드 개발까지  
   AWS와 Docker를 활용한 CI/CD 구축으로 **End-to-End 개발이 가능합니다.**
