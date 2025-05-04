@@ -12,14 +12,14 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dijeungi&label=Profile%20views&color=0e75b6&style=flat" alt="dijeungi" />
 </p>
-1
+
 <details>
 <summary><b>프로그래밍 언어 및 도구 툴 🔍</b></summary><br>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/React.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" width="26px" style="padding-right: 10px"/>
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" width="26px" style="padding-right: 10px"/>
+<!-- <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" width="26px" style="padding-right: 10px"/> -->
 
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" width="26px" style="padding-right: 10px"/>
