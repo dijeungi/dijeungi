@@ -4,7 +4,7 @@
       <a href="s">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijeungi&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"
-          width="420px"
+          width="440px"
           height="180px"
         />
       </a>
@@ -14,7 +14,7 @@
       <a href="s">
         <img
           src="https://github-readme-stats.vercel.app/api?username=dijeungi&theme=tokyonight&show_icons=true"
-          width="420px"
+          width="400px"
           height="180px"
         />
       </a>
