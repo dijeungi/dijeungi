@@ -8,8 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
@@ -21,6 +19,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase
           git add -A .
           if git commit -m "generated"; then
             git push
