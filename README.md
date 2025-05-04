@@ -1,6 +1,6 @@
 <p align="center">
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijeungi&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="160" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijeungi&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="160" style="margin-right: 24px;" />
   </a>
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=dijeungi&theme=tokyonight&show_icons=true" height="160" />
