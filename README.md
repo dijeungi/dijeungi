@@ -9,7 +9,6 @@
         />
       </a>
     </td>
-    <td style="width: 40px;"></td>
     <td>
       <a href="s">
         <img
