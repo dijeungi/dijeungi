@@ -7,7 +7,7 @@
 
 - 📫 이메일 연락: **dijeungi@naver.com**
 
-> 💡 *엔지니어로서 가장 중요한 것은 "무엇이 원인이었는지 명확하게 짚고 넘어가는 과정"이라고 생각합니다.*
+> *엔지니어로서 가장 중요한 것은 "무엇이 원인이었는지 명확하게 짚고 넘어가는 과정"을 하는 것 입니다.*
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dijeungi&label=Profile%20views&color=0e75b6&style=flat" alt="dijeungi" />
