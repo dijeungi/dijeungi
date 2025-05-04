@@ -19,7 +19,7 @@
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Next.js.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Javascript.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Redux.png" width="26px" style="padding-right: 10px"/>
-<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand.png" width="26px" style="padding-right: 10px"/>
+<img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Zustand1.png" width="26px" style="padding-right: 10px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/Java.png" width="26px" style="padding-right: 10px"/>
 <img align="left" src="https://raw.githubusercontent.com/dijeungi/dijeungi/main/img/SpringBoot.png" width="26px" style="padding-right: 10px"/>
