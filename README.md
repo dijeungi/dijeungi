@@ -3,7 +3,9 @@
 - 👨‍💻 React 기반 프론트엔드부터, Next.js · Spring Boot · Python을 활용한 백엔드 개발까지  
   AWS와 Docker를 활용한 CI/CD 구축으로 **End-to-End** 개발이 가능합니다.
 
-- 🤖 최근에는 Hugging Face와 LangChain을 활용한 **RAG 기반 프로젝트**를 진행 중입니다. (25.05.05 ~ 현재)
+- 🤖 현재는 [AI-himedia/Final_Project](https://github.com/AI-himedia/Final_Project) 프로젝트를 **Next.js 기반으로 마이그레이션 중**이며,  
+  기존 팀 작업을 모두 혼자 리빌딩하여 **v2 프로젝트로 전환**하고 있습니다. *(2025.05.05 ~ 진행 중)*  
+  🔗 [진행 중인 프로젝트 → dijeungi/againhello](https://github.com/dijeungi/againhello)
 
 - 📫 이메일 연락: **dijeungi@naver.com**
 
