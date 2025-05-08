@@ -5,7 +5,7 @@
 
 - 🤖 현재는 [AI-himedia/Final_Project](https://github.com/AI-himedia/Final_Project) 프로젝트를 **Next.js 기반으로 마이그레이션 중**이며,  
   기존 팀 작업을 모두 혼자 리빌딩하여 **v2 프로젝트로 전환**하고 있습니다. *(2025.05.05 ~ 진행 중)*  
-  🔗 [진행 중인 프로젝트 → dijeungi/againhello](https://github.com/dijeungi/againhello)
+  🔗 [진행 중인 프로젝트 보러가기](https://github.com/dijeungi/againhello)
 
 - 📫 이메일 연락: **dijeungi@naver.com**
 
