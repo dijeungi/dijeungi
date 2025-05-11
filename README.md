@@ -3,7 +3,7 @@
 - 👨‍💻 React 기반 프론트엔드부터, Next.js · Spring Boot · Python을 활용한 백엔드 개발까지  
   AWS와 Docker를 활용한 CI/CD 구축으로 **End-to-End** 개발이 가능합니다.
 
-*백엔드에서는 Java보다 Next.js를 더 선호하고 있습니다.*
+> *백엔드에서는 Java보다 Next.js를 더 선호하고 있습니다.*
 
 - 🤖 현재는 [AI-himedia/Final_Project](https://github.com/AI-himedia/Final_Project) 프로젝트를 **Next.js 기반으로 마이그레이션 중**이며,  
   기존 팀 작업을 모두 혼자 리빌딩하여 **v2 프로젝트로 전환**하고 있습니다. *(2025.05.05 ~ 진행 중)*  
