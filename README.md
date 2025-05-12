@@ -55,9 +55,6 @@
 <br style="clear: both"/>
 
 </details>
-
-
-
 </details>
 
 
