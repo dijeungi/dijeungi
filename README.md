@@ -1,15 +1,15 @@
 <h2 align="left">안녕하세요 👀 풀스택 기반의 AI 개발자 최준호 입니다.</h2>
 
-- 👨‍💻 React 기반 프론트엔드부터, Next.js · Spring Boot · Python을 활용한 백엔드 개발까지  
-  AWS와 Docker를 활용한 CI/CD 구축으로 **End-to-End** 개발이 가능합니다.
+- 프론트엔드를 좋아하고 선호하며, 백엔드로는 Next.js와 Python 위주로 만들고 있습니다.
+  배포에 대해 관심이 많으며 AWS를 기준으로 Google Cloud, Firebase Hosting 같은 여러 서비스를 사용해보고 있습니다.
 
 > *백엔드에서는 Java보다 Next.js를 더 선호하고 있습니다.*
 
-- 🤖 현재는 [AI-himedia/Final_Project](https://github.com/AI-himedia/Final_Project) 프로젝트를 **Next.js 기반으로 마이그레이션 중**이며,  
-  기존 팀 작업을 모두 혼자 리빌딩하여 **v2 프로젝트로 전환**하고 있습니다. *(2025.05.05 ~ 진행 중)*  
-  🔗 [진행 중인 프로젝트 입니다.](https://github.com/dijeungi/againhello)
+- 현재는 ['캐릭톡' 이라는 AI 캐릭터들과 대화할 수 있는 챗봇 서비스](https://github.com/AI-himedia/Final_Project) 프로젝트를 **Next.js & Python으로** 개발 중이며,  
+  '제타' 서비스를 참고하여 사용자들이 더 원하는 기능으로 **단독으로** 프로젝트를 진행 중 입니다.
+  🔗 ['캐릭톡' - Repo](https://github.com/dijeungi/againhello) / *포트폴리오용 프로젝트 입니다*
 
-- 📫 이메일 연락: **dijeungi@naver.com**
+- 📫 이메일 연락: dijeungi@naver.com
 
 > *엔지니어로서 가장 중요한 것은 "무엇이 원인이었는지 명확하게 짚고 넘어가는 과정"이라 생각합니다.*
 
