@@ -7,7 +7,7 @@
 
 - 현재는 ['캐릭톡' 이라는 AI 캐릭터들과 대화할 수 있는 챗봇 서비스](https://github.com/AI-himedia/Final_Project) 프로젝트를 **Next.js & Python으로** 개발 중이며,  
   '제타' 서비스를 참고하여 사용자들이 더 원하는 기능으로 **단독으로** 프로젝트를 진행 중 입니다.<br/>
-  🔗 ['캐릭톡' - Repo](https://github.com/dijeungi/againhello) / *포트폴리오용 프로젝트 입니다*
+  🔗 ['캐릭톡' - Repo](https://github.com/dijeungi/againhello)
 
 - 📫 이메일 연락: dijeungi@naver.com
 
