@@ -7,8 +7,7 @@
 
 - 현재는 **캐릭톡(CharacterTalk)**은 AI 캐릭터들과 자연스럽게 대화할 수 있는 챗봇 서비스를 개발 중이며,
 **Next.js**와 **Python** 을 사용하고 있습니다.  
-['제타' 앱](https://github.com/dijeungi/CharacterTalk)의 사용자 리뷰를 반영해  
-필요한 기능을 중심으로 **단독 프로젝트**로 확장하고 있습니다.
+['제타' 앱](https://github.com/dijeungi/CharacterTalk)의 사용자 리뷰를 반영해 필요한 기능을 중심으로 **단독 프로젝트**로 확장하고 있습니다.
 
 - 📫 이메일 연락: dijeungi@naver.com
 
