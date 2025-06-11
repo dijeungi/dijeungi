@@ -4,6 +4,8 @@
 - 백엔드: Next.js Python(FastAPI) <br/>
 - 배포: AWS, Google Cloud, Firebase
 
+<hr />
+
 - 현재는 **[캐릭톡(CharacterTalk)](https://github.com/dijeungi/CharacterTalk)**이라는 AI 캐릭터들과 자연스럽게 대화할 수 있는 <br/>챗봇 서비스를 개발 중이며,**Next.js**와 **Python** 을 사용하고 있습니다.
 
 - 📫 이메일 연락: dijeungi@naver.com
