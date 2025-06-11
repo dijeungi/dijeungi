@@ -1,8 +1,8 @@
 <h2 align="left">안녕하세요 👀 풀스택 기반의 AI 개발자 최준호 입니다.</h2>  
 
 - 프론트엔드: React, Next.js<br />
-- 백엔드로는 Next.js Python(FastAPI) <br/>
-  배포에 대해 관심이 많으며 AWS를 기준으로 Google Cloud, Firebase Hosting 같은 여러 서비스를 사용해보고 있습니다.
+- 백엔드: Next.js Python(FastAPI) <br/>
+- 배포: AWS, Google Cloud, Firebase
 
 - 현재는 **[캐릭톡(CharacterTalk)](https://github.com/dijeungi/CharacterTalk)**이라는 AI 캐릭터들과 자연스럽게 대화할 수 있는 <br/>챗봇 서비스를 개발 중이며,**Next.js**와 **Python** 을 사용하고 있습니다.
 
