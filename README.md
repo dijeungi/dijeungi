@@ -1,8 +1,8 @@
 <h2 align="left">안녕하세요 👀 Software Engineer 최준호 입니다.</h2>  
  
-- 프론트엔드: Next.js, React(JavaScript, TypeScript)<br />
-- 백엔드: Next.js Python(Django & FastAPI) <br/>
-- 배포: AWS, Google Cloud, Firebase
+- FE: Next.js, React(JavaScript, TypeScript)<br />
+- BE: Next.js Python(Django & FastAPI) <br/>
+- DevOps: AWS, Google Cloud, Firebase
 
 <hr />
 
