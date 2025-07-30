@@ -1,8 +1,12 @@
 <h2 align="left">안녕하세요. Software Engineer 최준호 입니다.</h2>  
- 
+
 - FE: Next.js, React(JavaScript, TypeScript)<br />
-- BE: Next.js Python(Django & FastAPI) <br/>
-- DevOps: AWS, Google Cloud, Firebase
+  - Lib: Zustand, React Query, Redux
+- BE: Next.js, Python(Django & FastAPI), Java(Spring Boot)<br/>
+- AI: PyTorch, CUDA, WebSocket(Chat Bot), LangChain, Hugging Face
+- DevOps: AWS(EC2 / Route53 / ACM / ALB / Route53), Docker, CloudeFlare, Github Actions
+- Database & Storage: PostgreSQL, MySQL, Redis, pgvector, Cloudflare R2, AWS S3
+- Collaboraction&Document: Slack, Discord, Notion, Miro
 
 <hr />
 
