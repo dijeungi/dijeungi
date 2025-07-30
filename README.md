@@ -6,7 +6,6 @@
 - AI: PyTorch, CUDA, WebSocket(Chat Bot), LangChain, Hugging Face
 - DevOps: AWS(EC2 / Route53 / ACM / ALB / Route53), Docker, CloudeFlare, Github Actions
 - Database & Storage: PostgreSQL, MySQL, Redis, pgvector, Cloudflare R2, AWS S3
-- Collaboraction&Document: Slack, Discord, Notion, Miro
 
 <hr />
 
