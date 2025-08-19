@@ -8,9 +8,8 @@
 - Database & Storage: PostgreSQL, MySQL, Redis, pgvector, Cloudflare R2, AWS S3
 
 <hr />
-
-<br />
 현재 앱 출시를 위한 프로젝트 기획 & 개발 중 입니다.
+<br />
  
 - 📫 이메일 연락: dijeung@kakao.com
 
