@@ -9,11 +9,8 @@
 
 <hr />
 
-~~- 현재는 **[캐릭톡(CharacterTalk)](https://github.com/dijeungi/CharacterTalk)**이라는 AI 캐릭터들과 자연스럽게 대화할 수 있는 <br/>챗봇 서비스를 개발 중이며,**Next.js**와 **Python** 을 사용하고 있습니다.~~
 <br />
-<br />
-개인 프로젝트 캐릭톡 개발이 25.08.06(수)부터 끝났음을 알립니다.<br/>
-현재 1인 개발 창업을 위한 프로젝트 기획 중 입니다.
+현재 앱 출시를 위한 프로젝트 기획 & 개발 중 입니다.
  
 - 📫 이메일 연락: dijeung@kakao.com
 
