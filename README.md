@@ -1,6 +1,6 @@
 <h2 align="left">안녕하세요. Software Engineer 최준호 입니다.</h2>  
 
-- FE: Next(FullStack), React(JavaScript, TypeScript)<br />
+- FE: React Native, Next(FullStack), React(JavaScript, TypeScript)<br />
   - Lib: Zustand, React Query, Redux
 - BE: nestJS, Next(FullStack), Python(Django & FastAPI), Java(Spring Boot)<br/>
 - AI: PyTorch, CUDA, WebSocket(Chat Bot), LangChain, Hugging Face
