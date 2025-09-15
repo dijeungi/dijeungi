@@ -1,11 +1,13 @@
 <h2 align="left">안녕하세요. Software Engineer 최준호 입니다.</h2>  
  
-- FE: React Native, Next(FullStack), React(JavaScript, TypeScript)<br />
+- FE: React Native, Next, React<br />
   - Lib: Zustand, React Query, Redux
-- BE: Next(FullStack), Python(Django & FastAPI), Java(Spring Boot)<br/>
-- AI: PyTorch, CUDA, WebSocket(Chat Bot), LangChain, Hugging Face
+  - Languages: Ts, Js
+- BE: Python(Django & FastAPI), Java(Spring Boot)<br/>
+- AI: PyTorch, CUDA, LangChain, Hugging Face
 - DevOps: AWS(EC2 / Route53 / ACM / ALB / Route53), Docker, CloudeFlare, Github Actions
 - Database & Storage: PostgreSQL, MySQL, Redis, pgvector, Cloudflare R2, AWS S3
+- Others: WebSocket
 
 <hr />
 현재 앱 출시를 위한 프로젝트 기획 & 개발 중 입니다.
