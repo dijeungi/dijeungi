@@ -1,6 +1,5 @@
 <h2 align="left">안녕하세요. Software Engineer 최준호 입니다.</h2>
 
-<hr />
 현재 앱 출시를 위한 프로젝트 기획 & 개발 중 입니다.
 <br />
 <br />
