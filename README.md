@@ -1,7 +1,6 @@
 <h2 align="left">안녕하세요. Software Engineer 최준호 입니다.</h2>
 
-현재 앱 출시를 위한 프로젝트 기획 & 개발 중 입니다.
-<br />
+1인 개발자 : 프로덕트 빌더(Product Builder)
 <br />
  
 - 📫 이메일 연락: dijeung@kakao.com
