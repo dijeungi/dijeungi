@@ -1,6 +1,6 @@
 <h2 align="left">Hi I'm Junho.</h2>
 I build products from planning and design to development, deployment, and operations, solo or with AI assistance.<br/>
-<span style="color:#999;">기획/디자인부터 개발, 배포, 운영까지 혼자 또는 AI 도움으로 만듭니다.</span>
+<span style="color:#999;">기획/디자인부터 개발, 배포, 운영까지 혼자 또는 AI 도움으로 만듭니다.</span><br/><br/>
 
 > *엔지니어로서 가장 중요한 것은 무엇이 원인이었는지 명확하게 짚고 넘어가는 과정입니다.*<br/>
 > *포기하지 말고 집념으로 끝까지 해내는 것이 중요합니다.*
