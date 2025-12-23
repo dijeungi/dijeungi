@@ -21,7 +21,7 @@ I build products from planning and design to development, deployment, and operat
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
  
 > *엔지니어로서 가장 중요한 것은 무엇이 원인이었는지 명확하게 짚고 넘어가는 과정입니다.*<br/>
 > *포기하지 말고 집념으로 끝까지 해내는 것이 중요합니다.*
