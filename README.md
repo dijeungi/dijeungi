@@ -1,5 +1,5 @@
 <h2 align="left">Hi I'm Junho.</h2>
-I build products from planning and design to development, deployment, and operations, either solo or with AI as my co-pilot.
+I build products from planning and design to development, deployment, and operations, either solo or with AI as my co-pilot.<br/>
 <sub><span style="color:#888;">기획/디자인부터 개발, 배포, 운영까지 전 과정을 혼자서 또는 AI와 함께 만들어갑니다.</span></sub>
 
 
