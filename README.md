@@ -1,6 +1,5 @@
-<h2 align="left">Hi I'm Junho.</h2>
-I build products from planning and design to development, deployment, and operations, solo or with AI assistance.<br/>
-
+<h2 align="left">안녕하세요 최준호 입니다.
+기획/디자인부터 개발, 배포, 운영까지 혼자 또는 AI 도움으로 제품을 만듭니다.<br/><br/>
 
 ### Experience
 
