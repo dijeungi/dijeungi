@@ -1,6 +1,6 @@
 <h2 align="left">Hi I'm Junho.</h2>
 I build products from planning and design to development, deployment, and operations, either solo or with AI as my co-pilot.<br/>
-<sub><span style="color:#888;">기획/디자인부터 개발, 배포, 운영까지 전 과정을 혼자서 또는 AI와 함께 만들어갑니다.</span></sub>
+*기획/디자인부터 개발, 배포, 운영까지 전 과정을 혼자서 또는 AI와 함께 만들어갑니다.*
 
 
 > *엔지니어로서 가장 중요한 것은 무엇이 원인이었는지 명확하게 짚고 넘어가는 과정입니다.*<br/>
