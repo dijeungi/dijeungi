@@ -7,6 +7,8 @@ I build products from planning and design to development, deployment, and operat
 - Himedia — Java Full-Stack Development (React.js, Spring Boot, Flutter), Sep 2024 - Mar 2025
 - Academic Credit Bank System (Korea, 학점은행제) — B.S. in Computer Engineering (In Progress), Aug 2024 ~
 
+<br/>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dijeungi&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
