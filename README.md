@@ -3,9 +3,11 @@ I build products from planning and design to development, deployment, and operat
 
 ### Education
 
-- Himedia — Generative AI Talent Development Program (Applied SW Engineering), Mar 2025 - Apr 2025
-- Himedia — Java Full-Stack Development (React.js, Spring Boot, Flutter), Sep 2024 - Mar 2025
-- Academic Credit Bank System (Korea, 학점은행제) — B.S. in Computer Engineering (In Progress), Aug 2024 ~
+- 1인 창업 (2025.09 ~)
+- 하이미디어아카데미 - 디지털선도기업아카데미 | 대한상공회의소 IBM x RedHat 교육 운영 매니저 (2025.05 ~ 2025.09)
+- 하이미디어아카데미 - 심화_생성형 AI활용 인재양성과정 (조별멘토) (2025.03.07 ~ 2025.04.30)
+- 하이미디어아카데미 - 클라우드 기반의 자바 풀스택 (Springboot, React, flutter) 개발자 과정 (2024.09 ~ 2025.03)
+- 온라인 학점은행제 - 컴퓨터공학 학사과정 이수 중 (2024.08 ~ 2027.02)
 
 <br/>
 
