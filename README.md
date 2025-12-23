@@ -5,7 +5,7 @@ I build products from planning and design to development, deployment, and operat
 ### Experience
 
 - 1인 창업 / Solo Builder (2025.09 ~ )
-    -- 지하철 익명 채팅 서비스 (개발에 필요한 데이터 확보가 어려워 프로젝트 중단)
+    - 지하철 익명 채팅 서비스 (개발에 필요한 데이터 확보가 어려워 프로젝트 중단)
 - 하이미디어 아카데미 - 디지털선도기업아카데미 | 대한상공회의소 IBM x RedHat 교육 운영 매니저 (2025.05 ~ 2025.09)
 
 ### Education
