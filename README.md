@@ -4,8 +4,12 @@
 ### Experience
 
 - 1인 창업 (2025.09 ~ )
-    - [학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼](https://github.com/himedia-labs/Himedia_Community) (지식 공유,공고,네트워킹) (25.11 ~ 26.02)
-    - [지하철 익명 채팅 서비스](https://github.com/Studio-Nana/Suda_Station)( (개발에 필요한 데이터 확보가 어려워 프로젝트 중단) (25.08 ~ 25.09)
+    - [학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼](https://github.com/himedia-labs/Himedia_Community)
+        - 🌐 Website: https://himedia-frontend.vercel.app/
+        - 📅 25.11 ~ 26.02 · 🟢 In Production
+    - [지하철 익명 채팅 서비스](https://github.com/Studio-Nana/Suda_Station)
+        - 📅 25.08 ~ 25.09 · 🔴 Development Stopped
+  
 - 하이미디어 아카데미 - 디지털선도기업아카데미 | 대한상공회의소 IBM x RedHat 교육 운영 매니저 (25.05 ~ 25.09)
 
 ### Education
