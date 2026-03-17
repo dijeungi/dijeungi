@@ -3,7 +3,7 @@
 
 ### Experience
 
-- 1인 창업 (2025.09 ~ )
+- 1인 도전 End to End (2025.09 ~ )
     - [학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼](https://github.com/himedia-labs/Himedia_Community)
         - 🌐 https://himedia-community.vercel.app
         - 📅 25.11 ~ 26.02 · 🟢 In Production
