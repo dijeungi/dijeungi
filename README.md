@@ -4,7 +4,7 @@
 ### Experience
 
 - End-to-End 개인 프로젝트 (2025.09 ~ )
-    - 개인 프로젝트 진행 중 입니다. RN + NestJS (26.03.19 ~ )
+    - 현재는 개인 프로젝트 진행 중 입니다. RN + NestJS (26.03.19 ~ )
   
     - 학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼
         - https://github.com/himedia-labs/Himedia_Community
