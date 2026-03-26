@@ -3,20 +3,9 @@
 
 ### Experience
 
-- End-to-End 개인 프로젝트 (2025.09 ~ )
-    - 현재는 개인 프로젝트 진행 중 입니다. RN + NestJS (26.03.19 ~ )
-  
-    - 학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼
-        - https://github.com/himedia-labs/Himedia_Community
-        - https://himedia-community.vercel.app
-        - 개발: 2025.11 ~ 2026.02 [4개월]
-        - 운영 및 유지보수: 2026.02 ~ 현재 | 🟢 In Production
-
-    - 지하철 기반 익명 채팅 서비스
-        - https://github.com/Studio-Nana/Suda_Station
-        - 개발: 2025.08 ~ 2025.09 (2개월)
-        - 상태: 개발 중단 | 🔴 Development Stopped
-  
+- 현재 개인 프로젝트 진행 중 입니다. (26.03.19 ~ )
+- [학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼](https://himedia-community.vercel.app) (2025.11 ~ 2026.02)
+- 지하철 기반 익명 채팅 서비스 (2025.08 ~ 2025.09)
 - 하이미디어 아카데미 - 디지털선도기업아카데미 | 대한상공회의소 IBM x RedHat 교육 운영 매니저 (25.05 ~ 25.09)
 
 ### Education
