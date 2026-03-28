@@ -14,7 +14,7 @@
 - 하이미디어 아카데미 - 클라우드 기반 자바 풀스택(Spring Boot, React, Flutter) 개발자 과정 (24.09 ~ 25.03)
 - 학점은행제 - 컴퓨터공학 학사과정 이수 중 (24.08 ~ 27.02)
 - 병장 만기전역 - (2022.10 ~ 2024.04)
-- 
+
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dijeungi&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a> -->
