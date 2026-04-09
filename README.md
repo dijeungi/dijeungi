@@ -3,7 +3,7 @@
 
 ### Experience
 
-- 현재 기술 확장으로 React Native 진행 및 관련 프로젝트를 하고 입니다. (26.03.19 ~ )
+- [Package-KR](https://github.com/Package-KR) : 오픈소스 Organization 운영 및 라이브러리 개발 (26.03.19 ~ )
 - [학원 수료생 전용 기술 블로그 & 커뮤니티 플랫폼](https://himedia-community.vercel.app) (25.11 ~ 26.02)
 - 지하철 기반 익명 채팅 서비스 (25.08 ~ 25.09)
 - 하이미디어 아카데미 - 디지털선도기업아카데미 | 대한상공회의소 IBM x RedHat 교육 운영 매니저 (25.05 ~ 25.09)
