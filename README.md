@@ -3,7 +3,7 @@
 
 ### 현재 진행 중인 프로젝트
 
-- [Package-KR](https://github.com/Package-KR) : 오픈소스 Organization 운영 및 라이브러리 개발 (26.03.19 ~ )
+- [Package-KR](https://github.com/Package-KR) : 오픈소스 Organization 운영 및 라이브러리 개발 (26.04.09 ~ )
 
 ### Education
 
