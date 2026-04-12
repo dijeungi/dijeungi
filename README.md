@@ -4,7 +4,7 @@
 ### 현재 진행 중인 프로젝트
 
 - [Package-KR](https://github.com/Package-KR) : 오픈소스 Organization 운영 (26.04.09 ~ )
-  - Web/App 라이브러리 개발 및 오픈소스 패키지 배포
+  - Web / App 라이브러리 개발 및 오픈소스 패키지 배포
 
 ### Education
 
