@@ -5,7 +5,7 @@
 
 - [Package-KR](https://github.com/Package-KR) : 오픈소스 Organization 운영 (26.04.09 ~ )
   - [react-native-kakao-signin](https://github.com/Package-KR/react-native-kakao-signin) : React Native - Kakao Login Lib
-  - [react-native-naver-signin](https://github.com/Package-KR/react-native-naver-signin) : React Native - Naver Login Lib
+  - [react-native-naver-signin](https://github.com/Package-KR/react-native-naver-signin) : React Native - Naver Login Lib (개발중)
 
 ### Education
 
