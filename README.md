@@ -4,7 +4,7 @@
 ### Project
 
 - [Package-KR](https://github.com/Package-KR) : 오픈소스 Organization 운영 (26.04.09 ~ )
-  - Web / App 라이브러리 개발 및 오픈소스 패키지 배포
+  - [react-native-kakao-signin](https://github.com/Package-KR/react-native-kakao-signin) : Kakao Login Lib
 
 ### Education
 
