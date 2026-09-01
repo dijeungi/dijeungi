@@ -1,6 +1,6 @@
 ## Project
 
-### <img src="./img/Package-KR.png" width="25" height="25" align="absmiddle" alt="Package-KR" /> [Package-KR](https://github.com/Package-KR) - Open Source Organization · Jul 2026 ~ Present
+### <img src="./img/Package-KR.png" width="30" height="30" align="absmiddle" alt="Package-KR" /> [Package-KR](https://github.com/Package-KR) - Open Source Organization · Jul 2026 ~ Present
 - [react-native-kakao-signin](https://github.com/Package-KR/react-native-kakao-signin) : React Native - Kakao Login Lib
 - [react-native-naver-signin](https://github.com/Package-KR/react-native-naver-signin) : React Native - Naver Login Lib
 
