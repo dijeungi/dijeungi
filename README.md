@@ -1,4 +1,4 @@
-## Open Source
+## Project
 
 ### <img src="./img/Package-KR.png" width="20" height="20" alt="Package-KR" /> [Package-KR](https://github.com/Package-KR) — Open Source Organization · Jul 2026 ~ Present
 - [react-native-kakao-signin](https://github.com/Package-KR/react-native-kakao-signin) : React Native - Kakao Login Lib
@@ -11,6 +11,7 @@
 - 하이미디어 아카데미 - 클라우드 기반 자바 풀스택(Spring Boot, React, Flutter) 개발자 과정 (24.09 ~ 25.03)
 
 ## Activities
+
 - 학점은행제 - 컴퓨터공학 학사과정 이수 중
 
 <br/>
