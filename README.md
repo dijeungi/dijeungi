@@ -5,6 +5,7 @@
 손그림 감성의 UI와 짧은 메모로, 평범한 순간을 나만의 기록으로 모읍니다.
 
 ### <img src="./img/Package-KR.png" width="35" height="35" align="absmiddle" alt="Package-KR" /> [Package-KR](https://github.com/Package-KR) - Open Source Organization · Jul 2026 ~ Present
+다양한 소프트웨어 솔루션을 개발하고 공유하는 데 전념하는 오픈 소스 커뮤니티입니다.
 - [react-native-kakao-signin](https://github.com/Package-KR/react-native-kakao-signin) : React Native - Kakao Login Lib
 - [react-native-naver-signin](https://github.com/Package-KR/react-native-naver-signin) : React Native - Naver Login Lib
 
