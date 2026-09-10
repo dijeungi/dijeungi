@@ -1,7 +1,7 @@
 ## Project
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         <img src="./img/VLOG.png" width="25" height="35" align="absmiddle" alt="VLOG" />
