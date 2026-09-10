@@ -1,11 +1,11 @@
 ## Project
 
-### <img src="./img/VLOG.png" width="25" height="35" align="absmiddle" alt="VLOG" /> VLOG - Photo &amp; Video Diary App
+## <img src="./img/VLOG.png" width="25" height="35" align="absmiddle" alt="VLOG" /> VLOG - Photo &amp; Video Diary App
 
 사진과 영상에 짧은 메모를 더해 일상을 기록하는 모바일 앱입니다.<br>
 손그림 감성의 UI와 나만의 기록을 모으는 경험을 중심으로 개발하고 있습니다.
 
-### <img src="./img/Package-KR.png" width="35" height="35" align="absmiddle" alt="Package-KR" /> [Package-KR](https://github.com/Package-KR) - Open Source Organization · Jul 2026 ~ Present
+## <img src="./img/Package-KR.png" width="35" height="35" align="absmiddle" alt="Package-KR" /> [Package-KR](https://github.com/Package-KR) - Open Source Organization · Jul 2026 ~ Present
 React Native 개발에 필요한 라이브러리를 만들고 공유하는 오픈 소스 조직입니다.
 
 - [react-native-kakao-signin](https://github.com/Package-KR/react-native-kakao-signin) : React Native - Kakao Login Lib
