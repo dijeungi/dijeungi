@@ -1,13 +1,10 @@
 ## Project
-
-<div id="toc">
-  <ul align="left" style="list-style: none">
+    <summary>
       <h1>
         <img src="./img/VLOG.png" width="25" height="35" align="absmiddle" alt="VLOG" />
         VLOG - Photo & Video Diary App
       </h1>
-  </ul>
-</div>
+    </summary>
 
 사진과 영상에 짧은 메모를 더해 일상을 기록하는 모바일 앱입니다.<br>
 손그림 감성의 UI와 나만의 기록을 모으는 경험을 중심으로 개발하고 있습니다.
