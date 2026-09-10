@@ -1,5 +1,3 @@
-## Project
-
 ## <img src="./img/VLOG.png" width="25" height="35" align="absmiddle" alt="VLOG" /> VLOG - Photo &amp; Video Diary App
 
 사진과 영상에 짧은 메모를 더해 일상을 기록하는 모바일 앱입니다.<br>
