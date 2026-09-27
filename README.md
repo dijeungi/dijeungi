@@ -23,3 +23,6 @@ React Native 개발에 필요한 라이브러리를 만들고 공유하는 오�
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dijeungi&label=Profile%20views&color=0e75b6&style=flat" alt="dijeungi" />
 </p>
+
+> *AI가 발전되어 누구나 개발을 시작할 수 있는 시대가 되었습니다.*<br/>
+> *하지만 중요한 것은 1개라도 제대로 되게 만들자는 겁니다.*
