@@ -13,6 +13,12 @@ export type Post = {
   category: string;
   date: string;
   readingMinutes: number;
+  heroImage?: {
+    src: string;
+    alt: string;
+    width: number;
+    height: number;
+  };
   sections: ArticleSection[];
 };
 
@@ -25,6 +31,12 @@ export const posts: Post[] = [
     category: "React",
     date: "2026-11-10",
     readingMinutes: 8,
+    heroImage: {
+      src: "https://storage.googleapis.com/deepmind-media/DeepMind.com/Components/brand/4-hydrogen/blog/assets/poster-light-823051b9.webp",
+      alt: "Gemini 4 Hydrogen 레퍼런스 대표 이미지",
+      width: 1632,
+      height: 918,
+    },
     sections: [
       {
         id: "rendering-is-a-calculation",
