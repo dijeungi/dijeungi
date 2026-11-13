@@ -19,18 +19,20 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
 export function ArticleReader({ post }: { post: Post }) {
   const {
     progress,
+    isReading,
     copyCode,
     copyLink,
+    headerRef,
     contentRef,
     shareStatus,
     codeStatuses,
   } = useArticleReader();
-  const isReading = progress > 0;
 
   return (
     <>
       <a className="skip-link" href="#main-content">본문으로 바로가기</a>
       <header
+        ref={headerRef}
         className={isReading ? "reader-header reader-header--reading" : "reader-header"}
       >
         <div className="reader-header-inner">
