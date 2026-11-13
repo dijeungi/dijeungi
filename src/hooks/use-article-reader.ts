@@ -20,7 +20,11 @@ async function copyToClipboard(value: string): Promise<boolean> {
 export function useArticleReader() {
   const mountedRef = useRef(false);
   const contentRef = useRef<HTMLElement>(null);
-  const [progress, setProgress] = useState(0);
+  const headerRef = useRef<HTMLElement>(null);
+  const [{ progress, isReading }, setReadingPosition] = useState({
+    progress: 0,
+    isReading: false,
+  });
   const shareTimerRef = useRef<number | null>(null);
   const codeTimersRef = useRef<Record<string, number>>({});
   const [shareStatus, setShareStatus] = useState<
@@ -41,7 +45,7 @@ export function useArticleReader() {
       };
     }
 
-    // 본문 위치에 따른 읽기 진행률 계산
+    // 본문이 헤더 아래에 닿는 공통 위치에서 제목 전환과 진행률 갱신
     function updateReadingPosition() {
       frameId = null;
       const article = contentRef.current;
@@ -52,15 +56,24 @@ export function useArticleReader() {
 
       const scrollTop = window.scrollY;
       const articleTop = article.getBoundingClientRect().top + scrollTop;
-      const readingStart = Math.max(0, articleTop - 144);
+      const readingOffset = headerRef.current?.offsetHeight ?? 0;
+      const readingStart = Math.max(0, articleTop - readingOffset);
       const readingEnd = Math.max(
         readingStart + 1,
         articleTop + article.offsetHeight - window.innerHeight,
       );
-      const percentage =
-        ((scrollTop - readingStart) / (readingEnd - readingStart)) * 100;
+      const readingDistance = Math.max(0, scrollTop - readingStart);
+      const nextProgress = Math.min(
+        100,
+        (readingDistance / (readingEnd - readingStart)) * 100,
+      );
+      const nextIsReading = readingDistance > 0;
 
-      setProgress(Math.min(100, Math.max(0, percentage)));
+      setReadingPosition((current) =>
+        current.progress === nextProgress && current.isReading === nextIsReading
+          ? current
+          : { progress: nextProgress, isReading: nextIsReading },
+      );
     }
 
     // 스크롤과 크기 변경의 읽기 위치 갱신 예약
@@ -77,6 +90,11 @@ export function useArticleReader() {
 
     scheduleReadingPosition();
     resizeObserver?.observe(content);
+
+    if (headerRef.current) {
+      resizeObserver?.observe(headerRef.current);
+    }
+
     window.addEventListener("resize", scheduleReadingPosition);
     window.addEventListener("scroll", scheduleReadingPosition, { passive: true });
 
@@ -142,8 +160,10 @@ export function useArticleReader() {
 
   return {
     progress,
+    isReading,
     copyCode,
     copyLink,
+    headerRef,
     contentRef,
     shareStatus,
     codeStatuses,
