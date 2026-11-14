@@ -20,7 +20,7 @@
 
 ## 로컬 개발
 
-프로젝트 디렉터리에서 실행합니다.
+기존 `dijeungi` 작업 폴더 안의 `blog/` 디렉터리에서 실행합니다.
 
 ```sh
 npm run dev
@@ -47,20 +47,31 @@ npm run dev
 
 ## GitHub Pages
 
-`next.config.ts`에 정적 내보내기와 디렉터리형 주소를 설정했습니다.
+사이트 주소는 [dijeungi.github.io](https://dijeungi.github.io/)입니다.
 
-사용자 사이트(`아이디.github.io`) 또는 루트 커스텀 도메인:
+로컬 작업은 기존 `dijeungi/` 폴더에서 계속합니다. 루트 `README.md`는 프로필용이고, 앱 코드는 `blog/`에 있습니다.
+
+`origin`의 가져오기 주소는 기존 [프로필 저장소](https://github.com/dijeungi/dijeungi)입니다. 푸시 주소는 프로필 저장소와 [블로그 저장소](https://github.com/dijeungi/dijeungi.github.io) 두 곳으로 설정되어 있어, 루트에서 `git push origin main`을 실행하면 같은 `main`이 양쪽에 반영됩니다.
+
+새로 복제한 환경에서는 같은 푸시 연결을 다음 명령으로 설정합니다.
+
+```sh
+git remote set-url --add --push origin https://github.com/dijeungi/dijeungi.git
+git remote set-url --add --push origin https://github.com/dijeungi/dijeungi.github.io.git
+```
+
+자동 배포는 [배포 워크플로](../.github/workflows/deploy-pages.yml)가 블로그 저장소에서만 실행합니다. 프로필 저장소에서는 배포 작업을 건너뜁니다. GitHub Actions 화면에서 수동 실행도 가능합니다.
+
+1. Node.js 24와 `blog/package-lock.json` 기준 npm 캐시를 설정합니다.
+2. `blog/`에서 `npm ci`와 `npm run build`를 실행합니다.
+3. 정적 결과물 `blog/out/`을 GitHub Pages에 배포합니다.
+
+Pages 빌드 소스는 GitHub Actions를 사용하고, 사용자 루트 주소에 맞춰 `NEXT_PUBLIC_BASE_PATH`를 빈 값으로 설정합니다.
+
+로컬 정적 빌드도 `blog/`에서 실행합니다.
 
 ```sh
 npm run build
 ```
 
-프로젝트 사이트(`아이디.github.io/저장소이름/`):
-
-```sh
-NEXT_PUBLIC_BASE_PATH=/저장소이름 npm run build
-```
-
-빌드된 `out/` 디렉터리를 Pages에 배포합니다. 저장소 이름의 대소문자도 경로와 일치시킵니다. `public/.nojekyll`이 결과에 포함되어 밑줄로 시작하는 Next.js 자산 경로를 보존합니다.
-
-아직 GitHub Actions 워크플로와 원격 배포는 연결하지 않았습니다. 정적 내보내기이므로 운영 환경에서 `next start` 대신 정적 파일 호스팅을 사용합니다.
+`next.config.ts`의 정적 내보내기와 디렉터리형 주소를 사용합니다. `public/.nojekyll`도 결과에 포함됩니다. 운영 환경에서는 `next start` 대신 정적 파일 호스팅을 사용합니다.
