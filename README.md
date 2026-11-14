@@ -47,20 +47,22 @@ npm run dev
 
 ## GitHub Pages
 
-`next.config.ts`에 정적 내보내기와 디렉터리형 주소를 설정했습니다.
+사이트 주소는 [dijeungi.github.io](https://dijeungi.github.io/)입니다. 저장소는 [dijeungi/dijeungi.github.io](https://github.com/dijeungi/dijeungi.github.io)를 사용합니다.
 
-사용자 사이트(`아이디.github.io`) 또는 루트 커스텀 도메인:
+`main`에 푸시하면 [배포 워크플로](.github/workflows/deploy-pages.yml)가 자동으로 실행됩니다. GitHub Actions 화면에서 수동 실행도 가능합니다.
+
+1. Node.js 24와 npm 캐시를 설정합니다.
+2. 저장소 루트에서 `npm ci`와 `npm run build`를 실행합니다.
+3. 정적 결과물 `out/`을 GitHub Pages에 배포합니다.
+
+저장소의 Pages 빌드 소스는 GitHub Actions를 사용합니다. 사용자 사이트의 루트 주소에 배포하므로 `NEXT_PUBLIC_BASE_PATH`는 빈 값으로 설정합니다.
+
+로컬에서도 프로젝트 디렉터리에서 정적 빌드를 확인할 수 있습니다.
 
 ```sh
 npm run build
 ```
 
-프로젝트 사이트(`아이디.github.io/저장소이름/`):
+`next.config.ts`에 정적 내보내기와 디렉터리형 주소를 설정했습니다. `public/.nojekyll`이 결과에 포함되어 밑줄로 시작하는 Next.js 자산 경로를 보존합니다. 운영 환경에서는 `next start` 대신 정적 파일 호스팅을 사용합니다.
 
-```sh
-NEXT_PUBLIC_BASE_PATH=/저장소이름 npm run build
-```
-
-빌드된 `out/` 디렉터리를 Pages에 배포합니다. 저장소 이름의 대소문자도 경로와 일치시킵니다. `public/.nojekyll`이 결과에 포함되어 밑줄로 시작하는 Next.js 자산 경로를 보존합니다.
-
-아직 GitHub Actions 워크플로와 원격 배포는 연결하지 않았습니다. 정적 내보내기이므로 운영 환경에서 `next start` 대신 정적 파일 호스팅을 사용합니다.
+프로필 README는 별도 공개 저장소 [dijeungi/dijeungi](https://github.com/dijeungi/dijeungi)에서 관리합니다.
