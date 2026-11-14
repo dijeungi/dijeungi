@@ -58,7 +58,7 @@ button:disabled { cursor: wait; opacity: 0.65; }
   grid-template-columns: repeat(var(--page-columns), minmax(0, 1fr));
   column-gap: var(--page-gap);
   width: 100%;
-  max-width: 1440px;
+  max-width: 1800px;
   padding-inline: var(--page-gutter);
   margin-inline: auto;
 }
@@ -79,10 +79,9 @@ button:disabled { cursor: wait; opacity: 0.65; }
   grid-template-columns: minmax(0, 1fr) 48px;
   align-items: center;
   gap: 16px;
-  width: 100%;
-  max-width: 1440px;
+  width: calc(100% - var(--page-gutter) * 2);
+  max-width: 1120px;
   height: 100%;
-  padding-inline: var(--page-gutter);
   margin-inline: auto;
 }
 .reader-header-titles {
@@ -140,7 +139,7 @@ button:disabled { cursor: wait; opacity: 0.65; }
 .share-feedback {
   position: absolute;
   top: calc(100% + 12px);
-  right: var(--page-gutter);
+  right: max(var(--page-gutter), calc((100% - 1120px) / 2));
   width: min(320px, calc(100vw - 32px));
   padding: 14px 18px;
   border: 1px solid var(--line);
@@ -220,8 +219,8 @@ button:disabled { cursor: wait; opacity: 0.65; }
 .article-meta-separator { color: #b8bec8; }
 .article-hero-media {
   position: relative;
-  width: 100%;
-  max-width: 1440px;
+  width: calc(100% - 32px);
+  max-width: 1800px;
   margin-inline: auto;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -254,7 +253,7 @@ button:disabled { cursor: wait; opacity: 0.65; }
   padding-block: 24px;
 }
 .article-section h2 {
-  margin: 0 0 20px;
+  margin: 0;
   font-size: 24px;
   font-weight: 400;
   line-height: 32px;
@@ -290,7 +289,7 @@ button:disabled { cursor: wait; opacity: 0.65; }
   .article-section h2 { font-size: 32px; line-height: 40px; }
 }
 @media (min-width: 1024px) {
-  .article-section h2 { margin-bottom: 40px; font-size: 44px; line-height: 52px; letter-spacing: -0.5px; }
+  .article-section h2 { font-size: 44px; line-height: 52px; letter-spacing: -0.5px; }
 }
 @media (min-width: 1025px) {
   :root {
@@ -329,7 +328,7 @@ button:disabled { cursor: wait; opacity: 0.65; }
   .article-heading h1 { font-size: 48px; line-height: 64px; }
   .article-section > p { line-height: 26px; }
 }
-@media (min-width: 1441px) {
+@media (min-width: 1801px) {
   .article-hero-media { border-radius: 24px; }
 }
 @media (max-width: 480px) {
