@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 
-import { posts, getPost } from "@/lib/posts";
-import { ArticleReader } from "@/components/article-reader";
+import { posts, getPost } from "@/app/shared/data/posts";
+import { ArticleReader } from "./_components/ArticleReader";
 
 import type { Metadata } from "next";
 

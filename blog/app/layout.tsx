@@ -1,8 +1,10 @@
 import { Google_Sans_Flex, Noto_Sans_KR } from "next/font/google";
 
-import { siteName, siteDescription } from "@/lib/site";
+import { siteName, siteDescription } from "@/app/shared/constants/site";
 
-import "./globals.css";
+import "./styles/reset.css";
+import "./styles/layout.css";
+import "./styles/typography.css";
 
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
