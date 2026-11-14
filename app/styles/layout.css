@@ -1,0 +1,16 @@
+:root {
+  --background: #fff;
+  --foreground: #202124;
+  --muted: #3c4043;
+  --blue: #1a73e8;
+  --line: #dadce0;
+}
+
+html { scroll-behavior: smooth; scroll-padding-top: 88px; }
+:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
+::selection { color: #164e9c; background: #dceaff; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}

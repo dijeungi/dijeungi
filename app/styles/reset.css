@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+body { margin: 0; }
+h1, h2, p { margin: 0; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+button { font: inherit; cursor: pointer; touch-action: manipulation; }
+button:disabled { cursor: wait; opacity: 0.65; }
